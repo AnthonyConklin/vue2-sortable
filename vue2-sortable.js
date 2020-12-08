@@ -2,7 +2,7 @@
 
   var vSortable = {};
   var Sortable = typeof require === 'function'
-      ? require('sortablejs')
+      ? require('sortablejs').Sortable
       : window.Sortable;
 
   if (!Sortable) {
