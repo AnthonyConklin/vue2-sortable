@@ -1,5 +1,7 @@
 # vue2-sortable
 
+## Updated for latest SortableJS API structural changes
+
 > Easily add drag-and-drop sorting to your Vue.js applications using the v-sortable2 directive, a thin wrapper for the minimalist [RubaXa/SortableJS](https://github.com/RubaXa/Sortable) library. 
 Based on [sagalbot/vue-sortable](https://github.com/sagalbot/vue-sortable)
 
